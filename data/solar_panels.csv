@@ -1,0 +1,9 @@
+Panel_ID,Brand,Model,Capacity_W,Efficiency_%,Installation_Date,Location,Status
+SP001,SunPower,SPR-X21,350,22,2023-01-15,Rooftop A,Active
+SP002,LG,NeON R,370,21.5,2023-02-20,Rooftop B,Active
+SP003,Canadian,CS6K-295MS,295,19.8,2023-03-10,Rooftop C,Active
+SP004,Trina,TSM-330DE,330,20.5,2023-04-05,Rooftop D,Active
+SP005,Jinko,Cheetah,400,20,2023-05-12,Rooftop E,Active
+SP006,Risen,RSM-365P,365,19.9,2023-06-18,Rooftop F,Maintenance
+SP007,JA Solar,JAM60S-330,330,20.2,2023-07-22,Rooftop G,Active
+SP008,LONGi,LR6-60HPH,360,21,2023-08-30,Rooftop H,Active
